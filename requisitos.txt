@@ -1,0 +1,23 @@
+Primeros ejercicios javascript
+- Crear función que reciba como parámetros dos números y que devuelva la suma de 
+ellos.
+- Crear función que determine si un número es par o impar.
+- Crear un objeto carro haciendo la abstracción de sus atributos y un objeto anidado. 
+- Crear una función que devuelva la marca del carro.
+- Crear una función que devuelva un atributo del objeto anidado.
+- Crear una función que imprima en consola todos los números de un array (Investigar
+ciclo for)
+- Crear una función que elimine los números pares de ese array.
+- Crear una función que devuelva el número mayor de un array.
+- Crear una función que devuelva el número menos de un array.
+- Crear un función que convierta en minúsculas todas las letras de un texto.
+- Crear una función que convierta en mayúsculas todas las letras de un texto. 
+- Crear una función que reciba un array de nombres y que convierta la primera letra 
+de cada nombre en mayúscula.
+- Crear un array de 10 nombres.
+- Crear una función que imprima en pantalla una lista con los nombres del array de 
+nombres.
+- Crear un array de números.
+- Crear una función que pinte en pantalla cuántos números tiene el array de números.
+- Crea los nodos necesarios para imprimir un formulario.
+- Crea los nodos necesarios para imprimir una tabla. 
